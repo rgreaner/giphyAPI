@@ -1,0 +1,39 @@
+body {
+    background-color: #daf7c0;
+    color:#342a66;
+    margin-left: 300px;
+    margin-right: 200px;
+   
+}
+
+h1 {
+    color:#342a66;
+    margin-top:50px;
+}
+
+.bandName {
+    background-color: #342a66;
+    color:#daf7c0;
+    padding: 7px;
+    border-radius: 8px;
+    margin-left: 50px;
+}
+
+#addGif {
+    background-color: #978dc9;
+    color: black;
+    border: 2px solid #342a66; 
+    font-size: 18;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 8px;
+    margin-left: 50px;
+}
+
+#bandGifs {
+    margin-top: 50px;
+}
+
+img {
+    margin:10px;
+}
